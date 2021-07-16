@@ -2,9 +2,9 @@
 Contributors: ecpaytechsupport
 Tags: ecommerce, e-commerce, store, sales, sell, shop, cart, checkout, payment, ecpay
 Requires at least: 4.5
-Tested up to: 5.5.1
+Tested up to: 5.7.1
 Requires PHP: 5.6 or later
-Stable tag: 2.0.2104150
+Stable tag: 2.0.2106300
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,6 +62,10 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 == Frequently Asked Questions ==
 
 == Changelog ==
+
+v2.0.2106300
+修正相容性至 WordPress Version 5.7.1
+修正相容性至 WooCommerce Version 5.3.0
 
 v2.0.2104150
 修正部份情境下定期定額訂單無法更新授權結果問題
